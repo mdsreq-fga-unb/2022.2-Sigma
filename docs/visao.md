@@ -1,4 +1,4 @@
-# VISÃO DO PRODUTO E PROJETO
+# Visão do produto e do projeto
 
 ## Histórico de Revisão
 
@@ -6,7 +6,7 @@
 | :---: | :----: | :------------------- | :-------------------------------- |
 | 15/11 |  1.0   | Criação do documento | João, Eduardo, Paulo, Milena, Ian |
 
-## 1 VISÃO GERAL DO PRODUTO
+## 1 Visão geral do produto
 
 ### 1.1 Declaração de Posição do Produto
 
@@ -30,7 +30,7 @@ Servir como um sistem de gestão onde seja feito o cadastro de alunos, professor
 - Docker
 - AWS
 
-## 2 VISÃO GERAL DO PROJETO
+## 2 Visão geral do projeto
 
 Será utilizado como base o framework de trabalho Scrum de maneira a ser adaptada ao contexto do projeto uma vez que a equipe não possue disponibilidade diaria para realizar dailys.
 
@@ -68,7 +68,7 @@ Será utilizado como base o framework de trabalho Scrum de maneira a ser adaptad
 
 ### 2.4 Gerenciamento de Riscos
 
-Ricos identificados:
+Riscos identificados:
 
 - Problemas de comunicação entre os integrantes do grupo.
 - Tempo necessário a ser dedicado ao projeto afetado por atividades externas.
