@@ -148,4 +148,5 @@ Aprendemos nesta unidade as várias metodologias e a importância de seguir suas
 
 # Apresentação da Visão de produto e projeto
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/p-VcXGQFFpk/0.jpg)](https://www.youtube.com/watch?v=p-VcXGQFFpk)
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/p-VcXGQFFpk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
