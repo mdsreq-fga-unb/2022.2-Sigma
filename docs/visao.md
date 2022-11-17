@@ -145,3 +145,7 @@ De acordo com a abordagem _XP ADAPTADA_, definiu-se:
 ### 4.1 Unidade 1
 
 Aprendemos nesta unidade as várias metodologias e a importância de seguir suas técnicas.A importância do contato com o cliente seja constantemente ou em determinadas fases do desenvolvimento do produto.Juntamente de como se preparar para as possíveis adversidades que podem impactar no desenvolvimento do projeto além dos conteúdos ministrados em aula como os fundamentos,abordagens,ciclos de vida,regras de negócio e etc.
+
+# Apresentação da Visão de produto e projeto
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/p-VcXGQFFpk/0.jpg)](https://www.youtube.com/watch?v=p-VcXGQFFpk)
