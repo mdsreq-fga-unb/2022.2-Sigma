@@ -4,11 +4,11 @@ O projeto Sigma se propõe a ser uma plataforma de cadastro/gerenciamento de alu
 
 ## Membros
 
-| Aluno               | Matricula |
-| ------------------- | --------- |
-| João Pedro Anacleto | 200020625 |
-|                     |           |
-|                     |           |
-|                     |           |
-|                     |           |
-|                     |           |
+| Aluno                | Matricula |
+| -------------------- | --------- |
+| João Pedro Anacleto  | 200020625 |
+| Lizandra Regis Malta | 190091282 |                
+|                      |           |
+|                      |           |
+|                      |           |
+|                      |           |
