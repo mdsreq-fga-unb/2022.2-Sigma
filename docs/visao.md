@@ -49,14 +49,14 @@ Será utilizado como base o framework de trabalho XP(Extreme Programing)
 | :---------- | :----------------------------------------------------- | :---------: | :------: |
 | Iteração 0  | Visão do Produto e do projeto                          |    15/11    |  18/11   |
 | Iteração 1  | Levantamento de Estórias, Planning Game e Arquitetura. |    21/11    |  25/11   |
-| Iteração 2  |                                                        |    28/11    |  02/12   |
-| Iteração 3  |                                                        |    05/12    |  09/12   |
-| Iteração 4  | Release 1                                              |    12/12    |  16/12   |
-| Iteração 5  |                                                        |    19/12    |  23/12   |
-| Iteração 6  |                                                        |    02/01    |  06/01   |
-| Iteração 7  | Release 2                                              |    09/01    |  13/01   |
-| Iteração 8  |                                                        |    16/01    |  20/01   |
-| Iteração 9  |                                                        |    23/01    |  27/01   |
+| Iteração 2  | Implementação do release 1                             |    28/11    |  02/12   |
+| Iteração 3  | Implementação do release 1                             |    05/12    |  09/12   |
+| Iteração 4  | Implementação e entrega da Release 1                   |    12/12    |  16/12   |
+| Iteração 5  | Implementação do release 2                             |    19/12    |  23/12   |
+| Iteração 6  | Implementação do release 2                             |    02/01    |  06/01   |
+| Iteração 7  | Implementação e entrega da Release 2                   |    09/01    |  13/01   |
+| Iteração 8  | Implementação da release 3                             |    16/01    |  20/01   |
+| Iteração 9  | Implementação da release 3                             |    23/01    |  27/01   |
 | Iteração 10 | Release 3                                              |    30/01    |  03/02   |
 
 ### 2.3 Matriz de Comunicação
@@ -97,9 +97,12 @@ Soluções a serem tomadas para mitigação dos riscos:
 
 Este topico se refere a como reorganizar o projeto caso ocorra impedimentos durante seu desenvolvimento.
 
-| Problema                  | Risco ao Projeto         | Replanejamento            |
-| :------------------------ | :----------------------- | :------------------------ |
-| Trancamento de disciplina | falta de desenvolvedores | Redistribuição de tarefas |
+| Problema                     | Risco ao Projeto                     | Replanejamento                                 |
+| :--------------------------- | :----------------------------------- | :--------------------------------------------- |
+| Trancamento de disciplina    | Falta de desenvolvedores             | Redistribuição de tarefas                      |
+| Atraso no desenvolvimento    | Entrega menor de funcionalidades     | Refinamento nos criterios de estimativa        |
+| Alteração nos requisitos     | Tempo gasto em novas funcionalidades | Replanejar o cronograma de entregas do projeto |
+| Indisponibilidade do cliente | Incapacitação da equipe              | Tentar outros meios de contato com o cliente   |
 
 ## 3 Processo de Desenvolvimento de Software
 
