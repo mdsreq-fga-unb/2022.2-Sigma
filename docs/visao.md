@@ -2,9 +2,10 @@
 
 ## Histórico de Revisão
 
-| Data  | Versão | Descrição            | Autor                             |
-| :---: | :----: | :------------------- | :-------------------------------- |
-| 15/11 |  1.0   | Criação do documento | João, Eduardo, Paulo, Milena, Ian |
+| Data  | Versão | Descrição                                            | Autor                                |
+| :---: | :----: | :--------------------------------------------------- | :----------------------------------- |
+| 15/11 |  1.0   | Criação do documento                                 | João, Eduardo, Paulo, Milena, Ian    |
+| 21/11 |  1.1   | Refinando documento de acordo com o feedback passado | João, Eduardo, Milena, Ian, Lizandra |
 
 ## 1 Visão geral do produto
 
@@ -36,12 +37,12 @@ Será utilizado como base o framework de trabalho XP(Extreme Programing)
 
 ### 2.1 Organização do Projeto
 
-| Papel      | Atribuições                                                              | Responsável             | Participantes             |
-| ---------- | ------------------------------------------------------------------------ | ----------------------- | ------------------------- |
-| Manager    | Responsavel pelo planning game                                           | João Pedro Anacleto     | João Pedro Anacleto       |
-| Coach      | Ajudar os desenvolvedores e garantir o uso das práticas do XP            | Eduardo Rodrigues       | Eduardo Rodrigues         |
-| Developers | Codificação do produto e dos testes                                      | Ian da Costa Gama       | Paulo,Milena,Ian,Lizandra |
-| Customer   | Acompanhar a equipe durante o desenvolvimento afim de garantir o produto | Escola Aliança Francesa | Escola Aliança Francesa   |
+| Papel      | Atribuições                                                              | Responsável             | Participantes           |
+| ---------- | ------------------------------------------------------------------------ | ----------------------- | ----------------------- |
+| Manager    | Responsavel pelo planning game                                           | João Pedro Anacleto     | João Pedro Anacleto     |
+| Coach      | Ajudar os desenvolvedores e garantir o uso das práticas do XP            | Eduardo Rodrigues       | Eduardo Rodrigues       |
+| Developers | Codificação do produto e dos testes                                      | Ian da Costa Gama       | Milena,Ian,Lizandra     |
+| Customer   | Acompanhar a equipe durante o desenvolvimento afim de garantir o produto | Escola Aliança Francesa | Escola Aliança Francesa |
 
 ### 2.2 Planejamento das Fases e/ou Iterações do Projeto
 
@@ -92,6 +93,7 @@ Soluções a serem tomadas para mitigação dos riscos:
 | Iteração | Risco Encontrado                   |     Nível      |
 | :------: | :--------------------------------- | :------------: |
 |    0     | Adição de um novo membro na equipe | Negligenciável |
+|    1     | Membro da equipe trancou a materia |  Considerável  |
 
 ### 2.5 Criterios de Replanejamento
 
@@ -105,6 +107,8 @@ Este topico se refere a como reorganizar o projeto caso ocorra impedimentos dura
 | Indisponibilidade do cliente | Incapacitação da equipe              | Tentar outros meios de contato com o cliente   |
 
 ## 3 Processo de Desenvolvimento de Software
+
+Devido ao prazo curto para o projeto, a volatividade dos requisitos e a disponibilidade do cliente, a equipe escolheu o método XP. Porém, a equipe não terá tempo suficiente de fazer todos os procedimentos, como por exemplo as dailys, então a abordagem está adaptada, com enfoque no pair programming, no TDD e no jogo de planejamento.
 
 ### 3.1 Metodologia
 
@@ -137,6 +141,9 @@ De acordo com a abordagem _XP ADAPTADA_, definiu-se:
 - Iteração: duração de 5 dias, de segunda à sexta;
 - Estória: Uma funcionalidade pedida pelo cliente e validada por um teste de aceitação
 - Atividade: Uma atividade que faz parte de uma estória e deve ser feita por um desenvolvedor
+- Pair programming: atividade feita em dupla, onde há um desenvolvedor front-end e um desenvolvedor back-end.
+- TDD: nas atividades de back-end, realizar os testes unitários antes das funcionalidade.
+- Testes de aceitação: verificar se a interface front-end em conjunto com as funcionalidade do back-end atendem as expectativas do cliente.
 
 ### 3.4 Fluxo de trabalho
 
@@ -151,5 +158,4 @@ Aprendemos nesta unidade as várias metodologias e a importância de seguir suas
 
 # Apresentação da Visão de produto e projeto
 
-<p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/p-VcXGQFFpk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/p-VcXGQFFpk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
