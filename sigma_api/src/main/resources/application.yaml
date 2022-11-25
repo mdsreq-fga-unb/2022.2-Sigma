@@ -1,0 +1,16 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/sigma_dev?useTimezone=true&serverTimezone=UTC
+    username: sigma_dba
+    password: sigma_dba123
+  jpa:
+    hibernate:
+      ddl-auto: validate
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.MySQLDialect
+    show-sql: false
+    open-in-view: true
+  flyway:
+    enabled: true
