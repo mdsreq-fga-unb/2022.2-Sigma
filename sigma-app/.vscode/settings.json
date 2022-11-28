@@ -1,0 +1,15 @@
+{
+    "editor.defaultFormatter": "rvest.vs-code-prettier-eslint",
+    "editor.formatOnPaste": false,
+    "editor.formatOnType": false,
+    "editor.formatOnSave": true,
+    "editor.formatOnSaveMode": "file",
+    "files.autoSave": "onFocusChange",
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "prettier.configPath": ".prettierrc"
+}

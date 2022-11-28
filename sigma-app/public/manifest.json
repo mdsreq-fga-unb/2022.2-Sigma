@@ -1,0 +1,8 @@
+{
+  "short_name": "Sigma App",
+  "name": "Sistema Integrado de Gestão e Matrícula de Alunos",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

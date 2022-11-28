@@ -1,0 +1,99 @@
+{
+    "env": {
+        "browser": true,
+        "es2021": true,
+        "jest": true
+    },
+    "extends": [
+        "eslint:recommended",
+        "plugin:react/recommended",
+        "plugin:@typescript-eslint/recommended",
+        "prettier"
+    ],
+    "overrides": [
+    ],
+    "parser": "@typescript-eslint/parser",
+    "parserOptions": {
+        "ecmaVersion": "latest",
+        "sourceType": "module"
+    },
+    "plugins": [
+        "react",
+        "react-hooks", 
+        "@typescript-eslint",
+        "prettier"
+    ],
+    "rules": {
+        "indent": ["error", 4],
+        "linebreak-style": ["error", "unix"],
+        "quotes": ["error", "single"],
+        "semi": ["error", "never"],
+        "camelcase": [
+            "error", 
+            {
+                "properties": "always"
+            }
+        ],
+        "eqeqeq": ["error", "always"],
+        "no-var": "error",
+        "prefer-const": [
+            "error", 
+            {
+                "destructuring": "any",
+                "ignoreReadBeforeAssign": false
+            }
+        ],
+        "prefer-destructuring": [
+            "error", 
+            {
+                "VariableDeclarator": 
+                {
+                    "array": false,
+                    "object": true
+                },
+                "AssignmentExpression": 
+                {
+                    "array": true,
+                    "object": false
+                }
+            }, 
+            {
+                "enforceForRenamedProperties": false
+            }
+        ],
+        "prefer-object-spread": "error",
+        "prefer-rest-params": "error",
+        "prefer-spread": "error",
+        "arrow-spacing": [
+            "error", 
+            {
+                "before": true, 
+                "after": true 
+            }
+        ],
+        "lines-around-comment": [
+            "error", 
+            {
+                "beforeBlockComment": true,
+                "afterBlockComment": true,
+                "beforeLineComment": true,
+                "afterLineComment": true
+            }
+        ],
+        "no-duplicate-imports": "error",
+        "react/react-in-jsx-scope": ["off"],
+        "react/jsx-uses-react": ["off"],
+        "react/jsx-props-no-spreading": ["warn"],
+        "react/no-unescaped-entities": ["off"]
+    },
+    "settings": {
+        "import/resolver": {
+            "typescript": {},
+            "node": 
+            {          
+                "paths": ["src"],
+                "extensions": [".js", ".jsx", ".ts", ".tsx"]
+            }
+        }
+    }
+}
