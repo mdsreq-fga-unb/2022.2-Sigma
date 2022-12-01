@@ -1,0 +1,9 @@
+CREATE TABLE super_user
+(
+    id       INT AUTO_INCREMENT NOT NULL,
+    email    VARCHAR(100)       NOT NULL,
+    password VARCHAR(100)       NOT NULL,
+
+    CONSTRAINT SUPER_USER_PK PRIMARY KEY (id),
+    CONSTRAINT SUPER_USER_EMAIL_UK UNIQUE KEY (email)
+);

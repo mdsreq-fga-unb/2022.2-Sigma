@@ -1,3 +1,5 @@
+server:
+  port: 8888
 spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
@@ -6,11 +8,11 @@ spring:
     password: sigma_dba123
   jpa:
     hibernate:
-      ddl-auto: create
+      ddl-auto: validate
     properties:
       hibernate:
         dialect: org.hibernate.dialect.MySQLDialect
     show-sql: true
     open-in-view: true
   flyway:
-    enabled: false
+    enabled: true
