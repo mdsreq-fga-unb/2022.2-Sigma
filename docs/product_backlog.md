@@ -1,10 +1,10 @@
-#Product Backlog
+# Product Backlog
 
-## 1.0 Épicos:
+## 1. Épicos:
 - Gerenciamento
 - Pagamento
 
-## 2.0 Feature Épico Gerenciamento:
+## 2. Feature Épico Gerenciamento:
 - F1: Autenticação
   - F1US1: Eu, como usuário, desejo realizar login.
   - F1US2: Eu, como usuário, desejo acessar meus dados pessoais.
@@ -26,7 +26,7 @@
   - F4US5: Eu, como aluno, desejo visualizar minhas notas.
   - F4US6: Eu, como aluno, desejo visualizar minha frequência.
 
-## 3.0 Feature Épico Pagamento:
+## 3. Feature Épico Pagamento:
 - F5: Pagamento via pix
   - F5US1: Eu, como aluno, desejo pagar a matrícula por meio online via pix.
   - F5US2: Eu, como parte da equipe de atendimento, desejo validar se o pagamento via pix foi efetivado.
@@ -36,7 +36,7 @@
   - F6US3: Eu, como parte da equipe de atendimento, desejo validar se o boleto foi pago.
 
 
-## MVP1: prover o serviço de matrícula
+## 4. MVP1: prover o serviço de matrícula
 - F1US1: Eu, como usuário, desejo realizar login.
 - F1US2: Eu, como usuário, desejo acessar meus dados pessoais.
 - F3US1: Eu, como aluno, desejo solicitar matrícula em uma turma em um horário escolhido.
@@ -44,7 +44,7 @@
 - F5US1: Eu, como aluno, desejo pagar a matrícula por meio online via pix.
 - F5US2: Eu, como parte da equipe de atendimento, desejo validar se o pagamento via pix foi efetivado.
 
-## MVP2: prover serviço de cadastro dos funcionários e administradores, serviço de fechamento de turma e autonomia do usuário para editar dados pessoais e recuperar senha.
+## 5. MVP2: prover serviço de cadastro dos funcionários e administradores, serviço de fechamento de turma e autonomia do usuário para editar dados pessoais e recuperar senha.
 - F1US3: Eu, como usuário, desejo editar meus dados pessoais.
 - F1US4: Eu, como usuário, desejo recuperar minha senha.
 - F2US1: Eu, como dirigente, desejo cadastrar administradores.
@@ -52,7 +52,7 @@
 - F2US3: Eu, como administrador, desejo alocar perfis de equipe pedagógica, de equipe de atendimento ou professor para funcionários.
 - F3US3: Eu, como equipe pedagógica, desejo fechar uma turma para que ela não fique mais disponível para matrícula.
 
-## MVP3: prover ao aluno acesso a suas notas e frequências e acesso a informações financeiras.
+## 6. MVP3: prover ao aluno acesso a suas notas e frequências e acesso a informações financeiras.
 - F4US1: Eu, como professor, desejo postar a matéria do dia de uma turma específica.
 - F4US2: Eu, como professor, desejo lançar notas para aluno.
 - F4US3: Eu, como professor, desejo lançar frequência para aluno.
