@@ -147,8 +147,8 @@ De acordo com a abordagem _XP ADAPTADA_, definiu-se:
 
 ### 3.4 Fluxo de trabalho
 
-![XP fluxo](./assets/xp_fluxo.png)
-![Ciclo de vida](./assets/xp_ciclo_de_vida.png)
+![XP fluxo](../assets/xp_fluxo.png)
+![Ciclo de vida](../assets/xp_ciclo_de_vida.png)
 
 ## 4 Lições Aprendidas
 
