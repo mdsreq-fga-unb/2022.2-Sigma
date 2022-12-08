@@ -88,13 +88,12 @@
 
 ## Requisitos não funcionais
 
-| Nº    | Requisito não funcional                                                          |
-| ----- | -------------------------------------------------------------------------------- |
-| RNF01 | O sistema deve ser desenvolvido em orientação a objetos                          |
-| RNF02 | A aplicação deve ser web                                                         |
-| RNF03 | A interface da aplicação deve ser intuitiva e de fácil usabilidade               |
-| RNF04 | A aplicação deve ser segura com dados, tanto do usuário quanto do administrador  |
-| RNF05 | O FrontEnd do sistema deve ser desenvolvido utilizando ReactJS                   |
-| RNF06 | O Backend do sistema deve ser desenvolvido utilizando Spring boot                |
-| RNF07 | O Banco de Dados do sistema deve ser moldado utilizando o docker                 |
-| RNF08 | A interface do usuário deve possuir a paleta de cores seguindo o site do cliente |
+| Nº    | URPS+           | Requisito não funcional                                                                       |
+| ----- | --------------- | --------------------------------------------------------------------------------------------- |
+| RNF01 | implementação   | O sistema deve ser desenvolvido em orientação a objetos                                       |
+| RNF02 | implementação   | A aplicação deve ser web                                                                      |
+| RNF03 | Reliabilidade   | A aplicação deve ser segura com dados, tanto do usuário quanto do administrador               |
+| RNF04 | Suportabilidade | O FrontEnd do sistema deve ser desenvolvido utilizando ReactJS                                |
+| RNF05 | Suportabilidade | O Backend do sistema deve ser desenvolvido utilizando Spring boot                             |
+| RNF06 | Suportabilidade | O Banco de Dados do sistema deve ser moldado utilizando MySQL utilizando uma instancia Docker |
+| RNF07 | Interface       | A interface do usuário deve possuir a paleta de cores seguindo o site do cliente              |
